@@ -87,15 +87,6 @@ class _MyHomePageState extends State<MyHomePage> {
                         controller: primaryController),
                   ]),
                 ),
-//                Row(
-//                  mainAxisAlignment: MainAxisAlignment.spaceAround,
-//                  children: <Widget>[
-//                    Icon(Icons.audiotrack, size: 48, color: Colors.white70),
-//                    Icon(Icons.access_time, size: 48, color: Colors.white30),
-//                    Icon(Icons.mic, size: 48, color: Colors.white30),
-//                    Icon(Icons.print, size: 48, color: Colors.white30)
-//                  ],
-//                )
               ],
             ),
           ),

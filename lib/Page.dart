@@ -1,7 +1,4 @@
-import 'dart:math';
-
 import 'package:profile_selection/data.dart';
-import 'DetailPageRoute.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
